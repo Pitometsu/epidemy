@@ -1,5 +1,3 @@
-require "epidemy/version"
+require_relative 'epidemy/base'
 
-module Epidemy
-  # Your code goes here...
-end
+$APP_NAME = 'Epidemy'
